@@ -11,8 +11,34 @@ Web-based chess app built with React + Vite and Stockfish.
 
 ## Quick start
 
-Install:   npm install
+Install:
 
-Run dev server:    npm run dev
+```bash
+npm install
+```
 
-Build:    npm run build
+Run dev server:
+
+```bash
+npm run dev
+```
+
+Build:
+
+```bash
+npm run build
+```
+
+Run smoke tests:
+
+```bash
+node test-features.js
+```
+
+## Deploy
+
+Deploy to Vercel or Netlify (auto-deploy from GitHub). For Vercel, connect your repo and it detects Vite.
+
+## License
+
+MIT
