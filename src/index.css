@@ -31,8 +31,8 @@ body {
   color: var(--text-primary);
   min-height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: stretch;
+  align-items: stretch;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -41,7 +41,7 @@ body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   padding: 2rem;
 }
 
